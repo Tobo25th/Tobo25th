@@ -1,7 +1,7 @@
 Hi 👋 My name is Tomás Veliz
 ============================
 
-Junior FrontEnd Dev
+Trainee FrontEnd Dev
 -------------------
 
 I´ve be learning Java in the university 2 years ago and now i'm getting into the front-end development.I wish I could work to be able to add experiences
