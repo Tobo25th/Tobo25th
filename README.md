@@ -1,13 +1,10 @@
-Hi 👋 My name is Tomás Veliz
+Hi 👋 My name is Tobo
 ============================
 
-Trainee FrontEnd Dev
+TRAINEE JAVA DEV
 -------------------
 
-I´ve be learning Java in the university 2 years ago and now i'm getting into the front-end development.I wish I could work to be able to add experiences
-
-* 🌍  I'm based in Argentina
-* 🧠  I'm learning React
+I´ve be learning Java in the university 2 years ago and now i'm getting into the real world projects!.
 
 ### Skills
 
